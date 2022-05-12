@@ -1,0 +1,3 @@
+# Project exclude paths
+/based-memery/target/
+/based-redis/target/
